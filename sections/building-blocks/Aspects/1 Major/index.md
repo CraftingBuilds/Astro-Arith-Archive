@@ -10,6 +10,15 @@ Each file in this folder follows the standard aspect format:
 - **Example**
 - **Use in Practice**
 
+
+### Files included:
+
+- Conjunction
+- Opposition
+- Square
+- Trine
+- Sextile
+  
 ---
 
 ## 📐 What Are Major Aspects?
