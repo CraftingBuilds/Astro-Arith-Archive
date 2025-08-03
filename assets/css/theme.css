@@ -1,0 +1,143 @@
+/*
+  Starseed Theme: Base Styling Template
+  This will be imported across all layouts and sections
+*/
+
+/* Import Garamond Font */
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap');
+
+/* Reset + Base Layout */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body {
+  font-family: 'EB Garamond', serif;
+  font-size: 16px;
+  line-height: 1.6;
+  background-color: #ffffff;
+  color: #1f1f1f;
+  min-height: 100vh;
+}
+
+/* Header Bar */
+header {
+  background-color: #1f3b75; /* Starseed Blue */
+  color: white;
+  padding: 1rem 2rem;
+  text-align: center;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+}
+
+header h1 {
+  font-size: 1.8rem;
+  margin-bottom: 0.5rem;
+}
+
+/* Navigation */
+nav ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 1rem;
+  padding-left: 0;
+}
+
+nav ul li a {
+  color: #a8d8ff;
+  text-decoration: none;
+  font-weight: 600;
+  padding: 0.3rem 0.6rem;
+  border-radius: 4px;
+}
+
+nav ul li a:hover {
+  background-color: rgba(255,255,255,0.1);
+}
+
+/* Main Content Container */
+main, .container {
+  max-width: 900px;
+  margin: 2rem auto;
+  padding: 0 1.5rem;
+}
+
+/* Typography */
+h1, h2, h3 {
+  color: #1f3b75;
+  margin: 2rem 0 1rem;
+  text-align: center;
+}
+
+p {
+  margin-bottom: 1.25rem;
+  text-align: justify;
+}
+
+/* Blockquotes */
+blockquote {
+  border-left: 4px solid #1f3b75;
+  padding: 0.75rem 1.25rem;
+  margin: 1.5rem 0;
+  background-color: #f9f9f9;
+  font-style: italic;
+  color: #333;
+}
+
+/* Code */
+code {
+  font-family: 'Courier New', Courier, monospace;
+  background-color: #f0f0f0;
+  padding: 0.2rem 0.4rem;
+  border-radius: 4px;
+  font-size: 0.95rem;
+  color: #c7254e;
+}
+
+pre {
+  background-color: #f6f8fa;
+  padding: 1rem;
+  overflow-x: auto;
+  border-radius: 5px;
+  font-size: 0.9rem;
+  font-family: 'Courier New', Courier, monospace;
+  line-height: 1.5;
+  color: #333;
+}
+
+a {
+  color: #0056b3;
+  font-weight: 500;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #003f8a;
+  text-decoration: underline;
+}
+
+/* Section Blocks */
+.section {
+  padding: 2rem 0;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+/* Responsive */
+@media (max-width: 640px) {
+  header h1 {
+    font-size: 1.5rem;
+  }
+  nav ul {
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+  .container {
+    padding: 0 1rem;
+  }
+}
