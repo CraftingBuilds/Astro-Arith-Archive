@@ -11,7 +11,15 @@ show_home: true
 
 <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 <script>
-  const section = new URLSearchParams(window.location.search).get('section') || '';
+  function encodePath(path) {
+    return path
+      .split('/')
+      .map(encodeURIComponent)
+      .join('/');
+  }
+
+  const params = new URLSearchParams(window.location.search);
+  const section = params.get('section') ? decodeURIComponent(params.get('section')) : '';
   const titleMap = {
     'analysis-guidelines': 'Analysis Guidelines',
     'building-blocks': 'Building Blocks',
@@ -20,12 +28,22 @@ show_home: true
     'legal': 'Legal'
   };
 
-  document.querySelector('h2').innerText = titleMap[section] || 'Astrology Section';
+  const title = titleMap[section] || section.split('/').pop() || 'Astrology Section';
+  document.querySelector('h2').innerText = title;
 
-  fetch(`../sections/${section}/index.md`)
+  const sectionPath = section ? encodePath(section) + '/' : '';
+
+  fetch(`../sections/${sectionPath}index.md`)
     .then(res => res.text())
     .then(md => {
-      document.getElementById('content').innerHTML = marked.parse(md);
+      const container = document.getElementById('content');
+      container.innerHTML = marked.parse(md);
+      container.querySelectorAll('a').forEach(a => {
+        const href = a.getAttribute('href');
+        if (!href || href.startsWith('http') || href.startsWith('#')) return;
+        const target = section ? `${section}/${href}` : href;
+        a.setAttribute('href', `${location.pathname}?section=${encodePath(target)}`);
+      });
     })
     .catch(err => {
       document.getElementById('content').innerHTML = `<p>Error loading content: ${err.message}</p>`;
