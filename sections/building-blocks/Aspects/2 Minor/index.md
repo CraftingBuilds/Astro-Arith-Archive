@@ -1,3 +1,9 @@
+—
+layout: default
+title: Minor
+—
+
+Content for the Fixed Stars page goes here. Replace this with actual notes or markdown.
 # 🌙 Minor Aspects
 
 This folder includes aspects that are more **subtle, nuanced, and less frequently interpreted** than major aspects — but no less significant in specific contexts.

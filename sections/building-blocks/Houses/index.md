@@ -1,6 +1,7 @@
----
-tags: [INDEX, Houses, Housekeeping]
----
+—
+layout: default
+title: Houses
+—
 
 ```text
 Definitions/Houses

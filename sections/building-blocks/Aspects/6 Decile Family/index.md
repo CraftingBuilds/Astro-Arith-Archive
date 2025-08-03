@@ -1,3 +1,9 @@
+—
+layout: default
+title: Decile Family
+—
+
+Content for the Fixed Stars page goes here. Replace this with actual notes or markdown.
 # 🛠 Decile Family Aspects
 
 This folder includes aspects from the **10th Harmonic**, primarily the **Decile (36°)** and **Quindecile (165°)**.

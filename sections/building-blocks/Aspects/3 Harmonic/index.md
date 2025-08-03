@@ -1,3 +1,9 @@
+—
+layout: default
+title: Harmonic Aspects
+—
+
+Content for the Fixed Stars page goes here. Replace this with actual notes or markdown.
 # 🎼 Harmonic Aspects
 
 This folder contains all aspects derived from **dividing the 360° circle** by whole numbers — forming what are called **harmonics**.

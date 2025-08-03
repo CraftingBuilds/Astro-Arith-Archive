@@ -1,3 +1,9 @@
+—
+layout: default
+title: Major
+—
+
+Content for the Fixed Stars page goes here. Replace this with actual notes or markdown.
 # 🌟 Major Aspects
 
 This folder contains the most widely used and essential aspects in astrology. These aspects are considered **Ptolemaic** and form the **foundation of traditional Western astrology**.

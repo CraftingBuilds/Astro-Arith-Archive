@@ -1,3 +1,9 @@
+—
+layout: default
+title: Aspects
+—
+
+Content for the Fixed Stars page goes here. Replace this with actual notes or markdown.
 Welcome to the **Aspects** directory — one of the core atomic structures of the Astrology Arith(m)etic system.
 
 This folder contains subfolders that group planetary aspects by harmonic families and geometric frequency. These files are the groundwork for interpreting planetary relationships — angular distances between celestial bodies that form the energetic latticework of every chart. Each aspect carries a distinct frequency, function and psychological/metaphysical tone.

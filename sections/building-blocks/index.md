@@ -1,3 +1,7 @@
+—
+layout: default
+title: Building Blocks
+—
 # Building Blocks
 
 Core components of astrology:

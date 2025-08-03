@@ -1,3 +1,9 @@
+—
+layout: default
+title: Custom
+—
+
+Content for the Fixed Stars page goes here. Replace this with actual notes or markdown.
 # 🌀 Custom
 
 This folder includes **non-standard** and **experimental aspects**, often derived from the **11th Harmonic** and uncommon angular relationships.

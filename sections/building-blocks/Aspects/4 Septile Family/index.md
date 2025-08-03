@@ -1,3 +1,9 @@
+—
+layout: default
+title: Septile Family
+—
+
+Content for the Fixed Stars page goes here. Replace this with actual notes or markdown.
 # 🜛 Septile Family Aspects
 
 This folder includes all aspects from the **7th Harmonic** — the division of 360° into seven parts.

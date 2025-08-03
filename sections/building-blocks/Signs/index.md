@@ -1,6 +1,7 @@
----
-tags: [INDEX, Signs, Housekeeping]
----
+—
+layout: default
+title: Signs
+—
 
 ```text
 Definitions/Signs

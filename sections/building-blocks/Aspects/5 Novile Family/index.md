@@ -1,3 +1,9 @@
+—
+layout: default
+title: Novile Family
+—
+
+Content for the Fixed Stars page goes here. Replace this with actual notes or markdown.
 # 🔮 Novile Family Aspects
 
 This folder documents all aspects arising from the **9th Harmonic**, which divides the zodiac into **40° arcs**.

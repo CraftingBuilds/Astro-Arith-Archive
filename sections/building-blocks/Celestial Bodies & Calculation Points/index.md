@@ -1,3 +1,8 @@
+—
+layout: default
+title: Celestial Bodies & Calculation Points
+—
+
 # Celestial Bodies & Calculation Points
 
 Objects that can be taken into consideration for astrological analysis and interpretations.
