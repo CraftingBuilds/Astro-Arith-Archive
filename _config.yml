@@ -1,7 +1,8 @@
 title: Astrology Arith(m)etic
 description: Structured astrological knowledge archive
 baseurl: "/Astro-Arith-Archive" # the subpath of your site, e.g. /blog
-url: "https://example.github.io" # the base hostname & protocol for your site
+url: "https://craftingbuilds.github.io/Astro-Arith-Archive" # the base hostname & protocol for your site
 markdown: kramdown
+theme: minima
 plugins:
   - jekyll-feed
