@@ -3,12 +3,63 @@ layout: default
 title: Astrology Arith(m)etic
 show_home: false
 ---
+<!DOCTYPE html>
+<html lang=“en”>
+<head>
+  <meta charset=“UTF-8” />
+  <meta name=“viewport” content=“width=device-width, initial-scale=1.0” />
+  <title>Astrology Arith(m)etic</title>
+  <link rel=“stylesheet” href=“style.css” /> <!— Link to external CSS —>
+  <style>
+    /* You can also write quick inline CSS here */
+    @font-face {
+  font-family: ‘AstrologyBrush.otf’;
+  src: url(‘fonts/AstrologyBrush.otf’) format(‘opentype’);
+  font-weight: normal;
+  font-style: normal;
+}
 
-<section class="intro">
-  <p>Welcome to the Astrology Arith(m)etic system. Select a section to begin exploring structured astrological knowledge.</p>
-</section>
+    body {
+      margin: 0;
+      font-family: ‘AstrologyBrush’, serif;
+      background-color: #f0f0f0;
+      color: #222;
+    }
+    header, footer {
+      background-color: #1f3b75;
+      color: #fff;
+      padding: 1rem;
+      text-align: center;
+    }
+    nav a {
+      color: #fff;
+      margin: 0 1rem;
+      text-decoration: none;
+    }
+    main {
+      padding: 2rem;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Astrology Arith(m)etic</h1>
+    <nav>
+      <a href=“/“>Home</a>
+      <a href=“#about”>About</a>
+      <a href=“#contact”>Contact</a>
+      <a href=“Building_Blocks.html”>Building Blocks</a>
+    </nav>
+    <h2>Home</h2>
+  </header>
+
+  <section class="intro">
+    <p>Welcome to the Astrology Arith(m)etic system. Select a section to begin exploring structured astrological knowledge.</p>
+  </section>
 
 <main>
+  <section id=“intent”>
   <h2>Intent</h2>
   <p>
     Intent of ‘Astrology Arith(m)etic’ is to build a foundation and knowledge base of the arithmetic — also math, building blocks, fundamentals — that is put into a format that is easy to use and understand.
@@ -16,7 +67,9 @@ show_home: false
   <p>
     The information entailed in this document, meaning more specifically Planets, is in reference to the Milky Way Galaxy Solar System. That being stated, the measurements of aspects and interpretations included in this Vault are applicable to other systems or declinations.
   </p>
-
+  </section>
+  
+  <section id=“purpose”> 
   <h2>Purpose of the Astrology Arith(m)etic Vault (Clarified)</h2>
   <p>
     Astrology Arith(m)etic is not a book of spells.<br>
@@ -27,6 +80,6 @@ show_home: false
     I do not ask the sky what it means.<br>
     I define what I will do with its data.
   </p>
-  
+  </section>
   
 </main>
