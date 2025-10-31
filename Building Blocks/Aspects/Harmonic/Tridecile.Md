@@ -8,11 +8,15 @@ The tridecile, or tredecile, spans 108° and links the third and fifth harmonics
 - Combines intuition with structure, enabling flashes of insight to be engineered into repeatable methods.
 - Indicates a drive to refine niche skills that eventually become marketable specialties.
 
-## Examples
-- Trideciles appear in charts of innovators who transform hobbies into signature careers—think boutique instrument builders or bespoke software architects.
-**Natal Chart Example.** A natal Mercury tridecile Neptune person might translate dreams into working prototypes, perhaps designing immersive soundscapes for wellness apps that begin as nighttime sketches.
-**Transit Example.** When transiting Venus trideciles natal Mars, collaboration with a creative peer may birth a joint venture, such as launching a pop-up studio that merges aesthetics with efficient production workflows.
-**Synastry Example.** If one partner’s Jupiter trideciles the other’s Mercury, brainstorming sessions become idea incubators. Together they map out grant proposals or community labs that turn inspired visions into funded projects.
+## Example Interpretations
+1. **Natal Chart Example**
+   In a natal chart, a tridecile blends intuition with engineering. The native is gifted at translating visionary sparks into practical blueprints, thriving when curiosity, experimentation, and structure are allowed to interplay.
+2. **Transit Example**
+   Transit trideciles invite inventive course corrections. Mapping inspired ideas into prototypes, business plans, or strategic collaborations during the transit helps convert serendipity into sustainable ventures.
+3. **Synastry Example**
+   Between charts, a tridecile ignites co-creative alchemy. Partners benefit from dedicated innovation sessions where each contributes insight and craftsmanship to build offerings that feel both inspired and executable.
+4. **Progressed Chart Example**
+   A progressed tridecile signals a maturation of niche expertise. The native can channel passion into specialized services, refined branding, or advanced study that positions their unique synthesis for broader impact.
 
 ## Use In Practice
 Track spontaneous inspirations and immediately map supporting steps. The tridecile’s magic emerges when intuitive hits are followed by schedules, prototypes, and feedback loops.

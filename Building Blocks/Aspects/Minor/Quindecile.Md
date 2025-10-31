@@ -8,12 +8,15 @@ The quindecile is a 165° aspect associated with obsessive focus, compulsion, an
 - Can become disruptive if balance is ignored.
 - Offers extraordinary perseverance when aligned with purpose.
 
-## Examples
-- Quindeciles showcase fierce devotion that can be honed into mastery when balanced with rest.
-- Many performers with enduring legacies have quindeciles linking personal planets to outer planets, symbolizing singular devotion.
-**Natal Chart Example.** With Mercury quindecile Pluto, a person might develop a research obsession. They spend years studying hidden histories, eventually producing documentaries or archives that shift collective understanding.
-**Transit Example.** When transiting Saturn quindeciles natal Venus, commitment themes rise sharply. Someone may painstakingly restore an ancestral home or dedicate themselves to a craft apprenticeship, redefining their relationship to love and value through sustained effort.
-**Synastry Example.** If one partner’s Sun quindeciles the other’s Moon, the bond can feel fated. The pair often pursues long-term missions together—launching nonprofits, parenting atypical households, or championing social causes—with unwavering loyalty.
+## Example Interpretations
+1. **Natal Chart Example**
+   In a natal chart, a quindecile reveals an obsessive thread that seeks purposeful mastery. The native thrives by channeling the intensity into disciplined practice, long-range projects, or service commitments that transform fixation into impact.
+2. **Transit Example**
+   Transit quindeciles heighten urgency around a single focus. Answering the call with structured plans, sustainable pacing, and periodic reflection keeps determination productive while safeguarding wellbeing.
+3. **Synastry Example**
+   Between charts, a quindecile forges a bond of relentless dedication. The connection deepens through shared missions, mutual accountability, and agreed-upon pauses that prevent burnout while honoring the drive to achieve together.
+4. **Progressed Chart Example**
+   A progressed quindecile marks a developmental crucible when the soul insists on uncompromising alignment. Committing to mentorship, fine-tuning strategy, and embracing restorative practices helps translate the pressure into breakthrough accomplishment.
 
 ## Use In Practice
 Channel the obsession into purposeful structures. Schedule rest, mentorship, and accountability so the intensity remains constructive rather than consuming.

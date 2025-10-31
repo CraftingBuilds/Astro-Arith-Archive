@@ -8,11 +8,15 @@ The triseptile measures about 154°17′ and represents a triple activation of t
 - Highlights long-term commitments rooted in shared mission or sacred responsibility.
 - Encourages visionary storytelling and teaching that helps others trust their own mysteries.
 
-## Examples
-- Triseptiles are common in charts of spiritual teachers, visionary activists, or artists whose work becomes a beacon for collective change.
-**Natal Chart Example.** A natal Sun triseptile Neptune person may feel compelled to establish healing arts centers or immersive retreats that allow communities to process grief and reimagine the future.
-**Transit Example.** When transiting Saturn triseptiles natal Jupiter, a leader might formalize a nonprofit or educational initiative, crafting policies that embed spiritual values into sustainable structures.
-**Synastry Example.** If one partner’s Moon triseptiles the other’s Venus, their bond may become a vessel for shared spiritual service—perhaps co-facilitating rites of passage or running a sanctuary that supports marginalized groups.
+## Example Interpretations
+1. **Natal Chart Example**
+   In a natal chart, a triseptile signals destiny-level pivots that insist on wholehearted alignment. The native is called to translate mystical insight into tangible leadership, building structures that serve collective transformation.
+2. **Transit Example**
+   Transit triseptiles demand courageous commitment. Formalizing visions, drafting covenants, or establishing long-term frameworks during the transit anchors the spiritual prompting in accountable action.
+3. **Synastry Example**
+   Between charts, a triseptile binds people through shared mission. The relationship flourishes when partners co-create sacred spaces, steward community initiatives, or uphold rituals that guide others through change.
+4. **Progressed Chart Example**
+   A progressed triseptile marks a chapter of visionary stewardship. The native may publish teachings, mentor awakening communities, or architect institutions that embody their deepest sense of calling.
 
 ## Use In Practice
 Answer the call with intentional planning. Create covenants, charters, or curricula that translate the triseptile’s numinous guidance into accountable, long-term frameworks.
