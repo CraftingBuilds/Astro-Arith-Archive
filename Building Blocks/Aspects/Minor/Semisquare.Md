@@ -8,12 +8,15 @@ The semisquare is a 45° aspect that creates nagging tension and restless drive.
 - Rewards consistent effort more than dramatic gestures.
 - Acts as a training edge, refining resilience and timing.
 
-## Examples
-- Semisquares act like frictional reminders to recalibrate habits before tension erupts.
-- Chains of semisquares can weave together a story of steady, behind-the-scenes progress.
-**Natal Chart Example.** With Mars semisquare Saturn, a person might feel impatient with slow progress. By designing structured practice sessions—like timed workouts or skill drills—they transform frustration into disciplined momentum.
-**Transit Example.** When Mercury forms a semisquare to natal Pluto, minor conversations carry surprising depth. Choosing to listen closely, ask clarifying questions, and journal afterwards turns subtle tension into strategic insight.
-**Synastry Example.** One partner’s Venus semisquare the other’s Moon can describe a relationship that grows through small course corrections. Regular check-ins about affection styles help the pair continually refine how they care for each other.
+## Example Interpretations
+1. **Natal Chart Example**
+   In a natal chart, a semisquare generates a persistent itch to improve. The native develops grit by embracing steady training, constructive feedback, and incremental milestones that harness the restlessness for lasting growth.
+2. **Transit Example**
+   Transit semisquares surface irritations that point to necessary adjustments. Addressing the tension with deliberate problem-solving, tidy communication, and patient repetition converts agitation into upgraded systems.
+3. **Synastry Example**
+   Between charts, a semisquare keeps relationships evolving through gentle friction. Scheduling regular tune-ups—whether emotional check-ins or workflow reviews—ensures the spark motivates improvement rather than resentment.
+4. **Progressed Chart Example**
+   A progressed semisquare signals a forging process. The native is called to refine dreams into plans, reinforcing boundaries, habits, and timelines that can sustain the vision beyond initial inspiration.
 
 ## Use In Practice
 Use the irritation as a compass. Build micro-milestones and celebrate each completion to keep morale strong while the semisquare quietly shapes mastery.

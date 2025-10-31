@@ -8,11 +8,15 @@ The vadecile, a lesser-used 18° aspect from the twentieth harmonic, highlights 
 - Rewards patience with micro-pivots rather than sweeping overhauls.
 - Bridges intention with embodiment through mindful movement, breathwork, or somatic awareness.
 
-## Examples
-- Vadeciles often surface in charts of facilitators who guide others through incremental change—bodyworkers, meditation teachers, or agile coaches.
-**Natal Chart Example.** With Mercury vadecile Chiron, a person may excel at therapeutic journaling or breath coaching, helping clients notice tiny shifts that lead to profound healing over time.
-**Transit Example.** When transiting Mars vadeciles natal Venus, someone might adjust their creative routine—adding warm-up stretches or brief studio resets—that ultimately reinvigorate their artistic passion.
-**Synastry Example.** If one partner’s Sun vadeciles the other’s Saturn, they become reliable accountability partners, celebrating micro-achievements and gently steering each other toward sustainable progress.
+## Example Interpretations
+1. **Natal Chart Example**
+   In a natal chart, a vadecile emphasizes mindful course correction. The native thrives by tracking subtle body cues, pacing adjustments, and micro-habits that keep growth aligned without drastic upheaval.
+2. **Transit Example**
+   Transit vadeciles invite small but significant pivots. Introducing brief resets, targeted practices, or incremental redesigns during the transit gradually shifts momentum toward greater coherence.
+3. **Synastry Example**
+   Between charts, a vadecile supports gentle accountability. The relationship flourishes when both parties celebrate micro-progress, share check-ins, and encourage sustainable pacing for mutual goals.
+4. **Progressed Chart Example**
+   A progressed vadecile signals a refinement era. The native can integrate mindful pauses, optimize workflows, and weave somatic awareness into innovation so that transformation unfolds through steady, precise steps.
 
 ## Use In Practice
 Track subtle feedback from the body and environment. Use timers, reflection prompts, or mindful pauses to honor the vadecile’s invitation to recalibrate before momentum drifts off course.

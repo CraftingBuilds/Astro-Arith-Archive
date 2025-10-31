@@ -8,11 +8,15 @@ The novile, at 40°, belongs to the ninth harmonic and symbolizes completion, in
 - Encourages devotion to practices that cultivate wholeness and inner peace.
 - Highlights a desire to mentor or guide others through transitions once personal integration is achieved.
 
-## Examples
-- Noviles often appear in charts of teachers, healers, and spiritual directors who accompany communities through meaningful milestones.
-**Natal Chart Example.** With Sun novile Saturn, an individual may feel compelled to pursue long-term apprenticeships, eventually leading retreats that blend tradition with modern accessibility.
-**Transit Example.** When transiting Jupiter noviles natal Moon, a person may formalize a meditation practice, take vows, or accept a leadership role within a healing community, marking a tender new chapter.
-**Synastry Example.** If one partner’s Venus noviles the other’s Mars, the relationship may center on shared rituals—anniversary pilgrimages or community service projects that renew their commitment to each other and the collective.
+## Example Interpretations
+1. **Natal Chart Example**
+   In a natal chart, a novile signals inner completion ripening into service. The individual is drawn toward vows, initiations, or contemplative disciplines that align personal mastery with compassionate contribution.
+2. **Transit Example**
+   Transit noviles invite formal dedication. Taking retreats, committing to practice schedules, or accepting roles of responsibility during the transit anchors the aspect’s sacred momentum.
+3. **Synastry Example**
+   Between charts, a novile fosters shared devotion. Partners deepen their bond through regular rituals, pilgrimage, or community service that honors their mutual commitment to growth.
+4. **Progressed Chart Example**
+   A progressed novile marks a chapter of consecration. The native may craft ceremonies, mentor seekers, or refine creative offerings that channel heart-centered wisdom into collective healing.
 
 ## Use In Practice
 Design ceremonies or structured reflections to acknowledge growth. The novile thrives when milestones are witnessed, celebrated, and integrated into a wider service path.

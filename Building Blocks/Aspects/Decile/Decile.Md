@@ -8,11 +8,15 @@ The decile, or 36° aspect, belongs to the tenth harmonic and highlights discipl
 - Reveals capacities for mentorship or leadership within creative or entrepreneurial teams.
 - Encourages steady refinement of craft through scheduled milestones and constructive feedback.
 
-## Examples
-- Deciles frequently show up in the charts of producers, editors, or coaches who shepherd projects from concept to delivery.
-**Natal Chart Example.** A natal Mars decile Saturn person may excel at athletic coaching, designing training plans that balance intensity and recovery to build reliable results season after season.
-**Transit Example.** When transiting Sun deciles natal Mercury, a strategist might map out a content calendar or study schedule, translating big ideas into weekly checkpoints that keep momentum strong.
-**Synastry Example.** If one partner’s Venus deciles the other’s Jupiter, they collaborate on ventures that blend beauty with generosity—launching scholarship funds or curated events that support community growth.
+## Example Interpretations
+1. **Natal Chart Example**
+   In a natal chart, a decile highlights precise craftsmanship born from steady effort. The individual succeeds by pairing ambition with structure, designing routines, training plans, or creative workflows that transform potential into consistent excellence.
+2. **Transit Example**
+   Transit deciles provide windows for organized execution. Translating inspirations into schedules, milestone charts, or accountability systems during the transit locks in progress and keeps momentum on track.
+3. **Synastry Example**
+   Between charts, a decile supports cooperative production. Partners thrive when they outline shared goals, balance responsibilities, and celebrate incremental achievements that build toward a polished outcome.
+4. **Progressed Chart Example**
+   A progressed decile marks a season of disciplined refinement. The native can codify methods, develop curricula, or launch structured offerings that showcase their evolving mastery.
 
 ## Use In Practice
 Outline the workflow, set benchmarks, and revisit progress regularly. The decile rewards accountability systems that keep creative momentum anchored in tangible commitments.

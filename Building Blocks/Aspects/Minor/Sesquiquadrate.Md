@@ -8,12 +8,15 @@ The sesquiquadrate, or trioctile, sits at 135°. It combines the urgency of the 
 - Exposes where impatience and inspiration intersect.
 - Helps integrate complex skill sets through persistent experimentation.
 
-## Examples
-- Sesquiquadrates expose patterns that require both courage and humor to transform persistent snags.
-- Sesquiquadrates frequently appear in charts of inventors who refine prototypes through many iterations.
-**Natal Chart Example.** A natal Sun sesquiquadrate Uranus can signal a person who chafes against routine. By designing a portfolio career—rotating between freelance tech projects and public workshops—they harness the aspect’s need for both autonomy and impact.
-**Transit Example.** When Mars transits sesquiquadrate natal Venus, creative projects may feel off-kilter. Adjusting color palettes, revising choreography, or experimenting with new instruments restores momentum and reveals a sharper aesthetic.
-**Synastry Example.** If one collaborator’s Mercury sesquiquadrates the other’s Saturn, brainstorming sessions may start with friction but end in breakthroughs. The pair learns to schedule longer meetings with built-in pauses, allowing innovative ideas to be grounded in methodical planning.
+## Example Interpretations
+1. **Natal Chart Example**
+   In a natal chart, a sesquiquadrate acts like a creative irritant that sparks innovation. The native succeeds by blending experimentation with structure, designing life patterns that welcome surprise while maintaining steady progress.
+2. **Transit Example**
+   Transit sesquiquadrates shake loose stale habits. Responding with flexible strategy sessions, prototype testing, or recalibrated schedules turns the edgy inspiration into inventive breakthroughs.
+3. **Synastry Example**
+   Between charts, a sesquiquadrate keeps collaboration lively. Establishing generous timelines, reflective pauses, and iterative feedback loops allows the pair to transform initial friction into polished results.
+4. **Progressed Chart Example**
+   A progressed sesquiquadrate marks a chapter of complex integration. The native refines intuition, artistry, or leadership by pairing bold experimentation with grounding practices that anchor the discoveries in real-world application.
 
 ## Use In Practice
 Channel the restless spark into iterative design, research sprints, or athletic drills. Celebrate experimental mistakes as milestones that refine the final outcome.
